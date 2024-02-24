@@ -1,6 +1,7 @@
 Learning Tutorial DJango CRM
 
 Thanks to:
+
 freeCodeCamp.org
 YouTube Link: https://www.youtube.com/@freecodecamp
 
